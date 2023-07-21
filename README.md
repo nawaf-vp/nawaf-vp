@@ -1,8 +1,9 @@
 
          
 <h1 align="center">Hi 👋, I'm Nawaf</h1><br>
- <h3 align="center">Front end web develper</h3>
-
+ <h2 align="center">Front end web develper</h2>
+<br>
+<br>
 - 🌱 I’m currently learning **MERN stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nawaf-vp](https://github.com/nawaf-vp)
