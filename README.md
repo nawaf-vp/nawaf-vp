@@ -55,6 +55,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nawaf-vp&show_icons=true&locale=en&layout=compact" 
         alt="nawaf-vp" />
 </p>
-
+<br>
+<br>
 - 📫 How to reach me **nawafvp.dev@gmail.com**
 
