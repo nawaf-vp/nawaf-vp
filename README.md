@@ -43,9 +43,7 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40"  height="40"/></a> 
    
   <a href="https://tailwindcss.com"   target="_blank" rel="noreferrer"> 
-   <img src="https://uxwing.com/tailwind-css-icon/" alt="tailwind" width="40"  height="40"/></a> 
-
-
+   <img src="https://github.com/nawaf-vp/nawaf-vp/assets/102661016/d50e205b-2e97-4528-b374-1f736d8c4677" alt="tailwind" width="40"  height="40"/></a> 
 
 
 <a href="https://www.cprogramming.com/" 
