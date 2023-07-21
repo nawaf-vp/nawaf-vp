@@ -1,10 +1,5 @@
-<div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=F7F7F7&size=46&vCenter=true&width=800&lines=>+Hi there!+I'm+Nawaf;>+I'm+a+Software+developer"/>
-    <br/><br/><br/>
-</div>                                              
 
-
-
+         
 <h1 align="center">Hi 👋, I'm Nawaf</h1>
 
 - 🌱 I’m currently learning **MERN stack**
