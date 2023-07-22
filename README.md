@@ -65,7 +65,6 @@
 
  <br>
 
-- 📫 How to reach me **nawafvp.dev@gmail.com**
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nawaf-vp&show_icons=true&locale=en&layout=compact" 
