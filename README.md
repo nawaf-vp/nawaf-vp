@@ -4,9 +4,9 @@
  <h2 align="center">Front end web developer</h2>
 <br>
 <br>
-- 🌱 I’m currently learning **MERN stack**
+ 🌱 I’m currently learning **MERN stack**
 
-- 👨‍💻 All of my projects are available at [https://github.com/nawaf-vp](https://github.com/nawaf-vp)
+ 👨‍💻 All of my projects are available at [https://github.com/nawaf-vp](https://github.com/nawaf-vp)
 
 
 
