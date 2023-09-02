@@ -1,7 +1,7 @@
 
          
 <h1 align="center">Hi 👋, I'm Nawaf</h1><br>
- <h2 align="center">Front end web developer</h2>
+ <h2 align="center">web developer</h2>
 <br>
 <br>
  🌱 I’m currently learning **MERN stack**
