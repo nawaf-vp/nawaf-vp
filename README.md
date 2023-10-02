@@ -9,8 +9,6 @@
 
  👨‍💻 All of my projects are available at [https://github.com/nawaf-vp](https://github.com/nawaf-vp)
 
-<br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=nawaf-vp&show_icons=true&locale=en" alt="nawaf-vp" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -61,17 +59,16 @@
          
 <a href="https://threejs.org/" target="_blank"> 
   <img src="https://github.com/nawaf-vp/nawaf-vp/assets/102661016/1b647f95-dfe9-4daf-aac8-08a8fc326388" alt=" three js" width="35" height="35"/> </a> 
-
-
-
-
  <br>
-
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nawaf-vp&show_icons=true&locale=en&layout=compact" 
         alt="nawaf-vp" />
 </p>
+<p>    
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nawaf-vp&" alt="nawaf-vp status" />
+</p>
+         
 <br>
 <br>
 
