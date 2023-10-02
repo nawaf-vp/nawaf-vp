@@ -2,7 +2,7 @@
          
 <h1 align="center">Hi 👋, I'm Nawaf</h1><br>
  <h2 align="center">web developer</h2>
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=nawaf-vp&label=Profile%20views&color=0e75b6&style=flat" alt="nawaf-vp" /> </p>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=nawaf-vp&label=Profile%20views&color=27b60e&style=flat" alt="nawaf-vp" /> </p>
 <br>
 <br>
  🌱 I’m currently learning **MERN stack**
