@@ -60,11 +60,17 @@
 <a href="https://threejs.org/" target="_blank"> 
   <img src="https://github.com/nawaf-vp/nawaf-vp/assets/102661016/1b647f95-dfe9-4daf-aac8-08a8fc326388" alt=" three js" width="35" height="35"/> </a> 
  <br>
-
+ 
+<p>
+  <img align="left" src="https://github.com/nawaf-vp/nawaf-vp/assets/102661016/7b2045c4-f532-4e8f-ac79-d2cb8ef8bc4e" 
+           alt="hack Octoberfest badge"  width="100"  />
+</p>
+ <br> <br>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nawaf-vp&show_icons=true&locale=en&layout=compact" 
-        alt="nawaf-vp" />
+        alt="languages used"  />
 </p>
+<br>  <br>
 <p>    
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nawaf-vp&" alt="nawaf-vp status" />
 </p>
