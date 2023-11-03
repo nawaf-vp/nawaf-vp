@@ -5,7 +5,7 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=nawaf-vp&label=Profile%20views&color=27b60e&style=flat" alt="nawaf-vp" /> </p>
 <br>
 <br>
- 🌱 I’m currently learning **MERN stack**
+ 🌱 I’m a front end developer 
 
  👨‍💻 All of my projects are available at [https://github.com/nawaf-vp](https://github.com/nawaf-vp)
 
